@@ -1,5 +1,7 @@
 # 🕵️‍♂️ The Invisible Fraud Detector
 **Real-Time AI for False-Positive Reduction in Digital Payments**
+## Live Demo-
+https://theinvisiblefrauddetector-rgi9fwyxf3k8gcvhporg79.streamlit.app/
 
 ## 📌 Overview
 Traditional fraud detection systems rely on rigid rules, resulting in up to 90% false-positive rates that block genuine transactions. **The Invisible Fraud Detector** replaces static rules with a dynamic, privacy-first scoring engine. By analyzing transaction behavior and structural topology, it accurately identifies hidden money mule rings while dramatically reducing false alerts.
