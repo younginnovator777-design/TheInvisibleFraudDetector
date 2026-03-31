@@ -1,0 +1,4 @@
+.DS_Store
+*.csv
+*.zip
+!dashboard_data.csv

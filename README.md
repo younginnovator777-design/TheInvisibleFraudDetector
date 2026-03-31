@@ -1,7 +1,10 @@
 # 🕵️‍♂️ The Invisible Fraud Detector
 **Real-Time AI for False-Positive Reduction in Digital Payments**
+<<<<<<< HEAD
 ## Live Demo-
 https://theinvisiblefrauddetector-rgi9fwyxf3k8gcvhporg79.streamlit.app/
+=======
+>>>>>>> a09cc29 (Initial commit)
 
 ## 📌 Overview
 Traditional fraud detection systems rely on rigid rules, resulting in up to 90% false-positive rates that block genuine transactions. **The Invisible Fraud Detector** replaces static rules with a dynamic, privacy-first scoring engine. By analyzing transaction behavior and structural topology, it accurately identifies hidden money mule rings while dramatically reducing false alerts.
@@ -27,4 +30,8 @@ Our system evaluates each transaction through three distinct lenses to calculate
 1. Clone this repository.
 2. Install the required dependencies:
    ```bash
+<<<<<<< HEAD
    pip install -r requirements.txt
+=======
+   pip install -r requirements.txt
+>>>>>>> a09cc29 (Initial commit)
