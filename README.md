@@ -1,11 +1,5 @@
 # 🕵️‍♂️ The Invisible Fraud Detector
 **Real-Time AI for False-Positive Reduction in Digital Payments**
-<<<<<<< HEAD
-## Live Demo-
-https://theinvisiblefrauddetector-rgi9fwyxf3k8gcvhporg79.streamlit.app/
-=======
->>>>>>> a09cc29 (Initial commit)
-
 ## Live Demo-
 https://theinvisiblefrauddetector-rgi9fwyxf3k8gcvhporg79.streamlit.app/
 
@@ -34,8 +28,5 @@ Our system evaluates each transaction through three distinct lenses to calculate
 1. Clone this repository.
 2. Install the required dependencies:
    ```bash
-<<<<<<< HEAD
    pip install -r requirements.txt
-=======
-   pip install -r requirements.txt
->>>>>>> a09cc29 (Initial commit)
+
